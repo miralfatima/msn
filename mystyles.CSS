@@ -1,0 +1,24 @@
+#body {
+	background-color: #f8f9fa;
+}
+#one {
+	background-color: rgb(238, 236, 236);
+}
+.nav-item {
+	position: relative;
+	transition: none;
+}
+.two {
+	font-size: medium;
+	font-style: bold;
+}
+.three {
+	color: black;
+}
+.four {
+	margin-left: 5rem;
+}
+.container1 {
+	padding: 10px 10px 10px 10px;
+	margin: 20px 20px 20px 20px;
+}
